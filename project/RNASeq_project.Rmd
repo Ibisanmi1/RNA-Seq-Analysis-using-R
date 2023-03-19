@@ -1,5 +1,5 @@
 ---
-title: "How to Perform RNA-seq analysis"
+title: "RNA-seq analysis with R"
 author: "TOPE A. IBISANMI"
 date: "MARCH 15, 2023"
 output:
